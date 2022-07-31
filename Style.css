@@ -95,9 +95,31 @@ body {
     top: 194px;
     right: 250px;
     line-height: 16px;
-    color: white;
-    
+    color: white;    
 }
-
-
-
+/*footer styles*/
+.footer{
+    height: 200px;
+    background-color: #A6ADB4;    
+    color: #CBD0D3;
+}
+.logofooter{
+    display: inline-block;
+    margin: 58px 89.1px 60px 142px;
+}
+.footerul{
+    display: inline-block;
+}
+.footers1, .footers2, .footers3 {
+    display: inline-block;
+    margin-right: 100px;
+    vertical-align: top;
+}
+.footerp{
+    display: inline-block;
+    margin: 0 165.3px 0 0;
+}
+.social{
+    display: inline-block;
+    margin-right: 32px;
+}
